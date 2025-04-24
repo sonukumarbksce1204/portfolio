@@ -328,7 +328,7 @@ export const FOOTER_DATA = [
       {
         name: "Video CV",
         icon: null,
-        link: "https://youtube.com",
+        link: "https://www.youtube.com/shorts/FPCFAIhWnok",
       },
       {
         name: "Explore My projects",
